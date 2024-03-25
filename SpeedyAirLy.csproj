@@ -7,4 +7,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+ <!-- Add an ItemGroup to specify files to be copied -->
+  <ItemGroup>
+    <!-- Specify the file(s) you want to copy -->
+    <Content Include="Data/coding-assigment-orders.json">
+      <!-- Relative path to the file -->
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>
