@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PgoUkikURFdP+f2hPb+JroXAiWipI8v1/uqDGXS1KXWuB66qYTy3hkhERDrjnaqtW27nDHYgp/xWUy9QUp/W3A==",
+  "success": true,
+  "projectFilePath": "/home/hamid/Projects/SpeedyAirLy/SpeedyAirLy.csproj",
+  "expectedPackageFiles": [
+    "/home/hamid/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
